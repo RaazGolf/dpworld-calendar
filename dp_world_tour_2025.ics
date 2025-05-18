@@ -1,0 +1,258 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:Europe/Berlin
+BEGIN:VEVENT
+UID:AbuDhabiChampionship-R1@dpworld.com
+DTSTAMP:20250518T174256Z
+DTSTART;TZID=Europe/Berlin:20250109T080000
+DTEND;TZID=Europe/Berlin:20250109T180000
+SUMMARY:Abu Dhabi Championship – Round 1 ⛳
+LOCATION:Abu Dhabi GC
+DESCRIPTION:Placeholder time until real tee times are available
+END:VEVENT
+BEGIN:VEVENT
+UID:AbuDhabiChampionship-R2@dpworld.com
+DTSTAMP:20250518T174256Z
+DTSTART;TZID=Europe/Berlin:20250110T080000
+DTEND;TZID=Europe/Berlin:20250110T180000
+SUMMARY:Abu Dhabi Championship – Round 2 ⛳
+LOCATION:Abu Dhabi GC
+DESCRIPTION:Placeholder time until real tee times are available
+END:VEVENT
+BEGIN:VEVENT
+UID:AbuDhabiChampionship-R3@dpworld.com
+DTSTAMP:20250518T174256Z
+DTSTART;TZID=Europe/Berlin:20250111T080000
+DTEND;TZID=Europe/Berlin:20250111T180000
+SUMMARY:Abu Dhabi Championship – Round 3 ⛳
+LOCATION:Abu Dhabi GC
+DESCRIPTION:Placeholder time until real tee times are available
+END:VEVENT
+BEGIN:VEVENT
+UID:AbuDhabiChampionship-R4@dpworld.com
+DTSTAMP:20250518T174256Z
+DTSTART;TZID=Europe/Berlin:20250112T080000
+DTEND;TZID=Europe/Berlin:20250112T180000
+SUMMARY:Abu Dhabi Championship – Round 4 ⛳
+LOCATION:Abu Dhabi GC
+DESCRIPTION:Placeholder time until real tee times are available
+END:VEVENT
+BEGIN:VEVENT
+UID:DubaiDesertClassic-R1@dpworld.com
+DTSTAMP:20250518T174256Z
+DTSTART;TZID=Europe/Berlin:20250123T080000
+DTEND;TZID=Europe/Berlin:20250123T180000
+SUMMARY:Dubai Desert Classic – Round 1 ⛳
+LOCATION:Emirates GC
+DESCRIPTION:Placeholder time until real tee times are available
+END:VEVENT
+BEGIN:VEVENT
+UID:DubaiDesertClassic-R2@dpworld.com
+DTSTAMP:20250518T174256Z
+DTSTART;TZID=Europe/Berlin:20250124T080000
+DTEND;TZID=Europe/Berlin:20250124T180000
+SUMMARY:Dubai Desert Classic – Round 2 ⛳
+LOCATION:Emirates GC
+DESCRIPTION:Placeholder time until real tee times are available
+END:VEVENT
+BEGIN:VEVENT
+UID:DubaiDesertClassic-R3@dpworld.com
+DTSTAMP:20250518T174256Z
+DTSTART;TZID=Europe/Berlin:20250125T080000
+DTEND;TZID=Europe/Berlin:20250125T180000
+SUMMARY:Dubai Desert Classic – Round 3 ⛳
+LOCATION:Emirates GC
+DESCRIPTION:Placeholder time until real tee times are available
+END:VEVENT
+BEGIN:VEVENT
+UID:DubaiDesertClassic-R4@dpworld.com
+DTSTAMP:20250518T174256Z
+DTSTART;TZID=Europe/Berlin:20250126T080000
+DTEND;TZID=Europe/Berlin:20250126T180000
+SUMMARY:Dubai Desert Classic – Round 4 ⛳
+LOCATION:Emirates GC
+DESCRIPTION:Placeholder time until real tee times are available
+END:VEVENT
+BEGIN:VEVENT
+UID:QatarMasters-R1@dpworld.com
+DTSTAMP:20250518T174256Z
+DTSTART;TZID=Europe/Berlin:20250213T080000
+DTEND;TZID=Europe/Berlin:20250213T180000
+SUMMARY:Qatar Masters – Round 1 ⛳
+LOCATION:Doha GC
+DESCRIPTION:Placeholder time until real tee times are available
+END:VEVENT
+BEGIN:VEVENT
+UID:QatarMasters-R2@dpworld.com
+DTSTAMP:20250518T174256Z
+DTSTART;TZID=Europe/Berlin:20250214T080000
+DTEND;TZID=Europe/Berlin:20250214T180000
+SUMMARY:Qatar Masters – Round 2 ⛳
+LOCATION:Doha GC
+DESCRIPTION:Placeholder time until real tee times are available
+END:VEVENT
+BEGIN:VEVENT
+UID:QatarMasters-R3@dpworld.com
+DTSTAMP:20250518T174256Z
+DTSTART;TZID=Europe/Berlin:20250215T080000
+DTEND;TZID=Europe/Berlin:20250215T180000
+SUMMARY:Qatar Masters – Round 3 ⛳
+LOCATION:Doha GC
+DESCRIPTION:Placeholder time until real tee times are available
+END:VEVENT
+BEGIN:VEVENT
+UID:QatarMasters-R4@dpworld.com
+DTSTAMP:20250518T174256Z
+DTSTART;TZID=Europe/Berlin:20250216T080000
+DTEND;TZID=Europe/Berlin:20250216T180000
+SUMMARY:Qatar Masters – Round 4 ⛳
+LOCATION:Doha GC
+DESCRIPTION:Placeholder time until real tee times are available
+END:VEVENT
+BEGIN:VEVENT
+UID:IrishOpen-R1@dpworld.com
+DTSTAMP:20250518T174256Z
+DTSTART;TZID=Europe/Berlin:20250710T080000
+DTEND;TZID=Europe/Berlin:20250710T180000
+SUMMARY:Irish Open – Round 1 ⛳
+LOCATION:Lahinch GC
+DESCRIPTION:Placeholder time until real tee times are available
+END:VEVENT
+BEGIN:VEVENT
+UID:IrishOpen-R2@dpworld.com
+DTSTAMP:20250518T174256Z
+DTSTART;TZID=Europe/Berlin:20250711T080000
+DTEND;TZID=Europe/Berlin:20250711T180000
+SUMMARY:Irish Open – Round 2 ⛳
+LOCATION:Lahinch GC
+DESCRIPTION:Placeholder time until real tee times are available
+END:VEVENT
+BEGIN:VEVENT
+UID:IrishOpen-R3@dpworld.com
+DTSTAMP:20250518T174256Z
+DTSTART;TZID=Europe/Berlin:20250712T080000
+DTEND;TZID=Europe/Berlin:20250712T180000
+SUMMARY:Irish Open – Round 3 ⛳
+LOCATION:Lahinch GC
+DESCRIPTION:Placeholder time until real tee times are available
+END:VEVENT
+BEGIN:VEVENT
+UID:IrishOpen-R4@dpworld.com
+DTSTAMP:20250518T174256Z
+DTSTART;TZID=Europe/Berlin:20250713T080000
+DTEND;TZID=Europe/Berlin:20250713T180000
+SUMMARY:Irish Open – Round 4 ⛳
+LOCATION:Lahinch GC
+DESCRIPTION:Placeholder time until real tee times are available
+END:VEVENT
+BEGIN:VEVENT
+UID:ScottishOpen-R1@dpworld.com
+DTSTAMP:20250518T174256Z
+DTSTART;TZID=Europe/Berlin:20250717T080000
+DTEND;TZID=Europe/Berlin:20250717T180000
+SUMMARY:Scottish Open – Round 1 ⛳
+LOCATION:Renaissance Club
+DESCRIPTION:Placeholder time until real tee times are available
+END:VEVENT
+BEGIN:VEVENT
+UID:ScottishOpen-R2@dpworld.com
+DTSTAMP:20250518T174256Z
+DTSTART;TZID=Europe/Berlin:20250718T080000
+DTEND;TZID=Europe/Berlin:20250718T180000
+SUMMARY:Scottish Open – Round 2 ⛳
+LOCATION:Renaissance Club
+DESCRIPTION:Placeholder time until real tee times are available
+END:VEVENT
+BEGIN:VEVENT
+UID:ScottishOpen-R3@dpworld.com
+DTSTAMP:20250518T174256Z
+DTSTART;TZID=Europe/Berlin:20250719T080000
+DTEND;TZID=Europe/Berlin:20250719T180000
+SUMMARY:Scottish Open – Round 3 ⛳
+LOCATION:Renaissance Club
+DESCRIPTION:Placeholder time until real tee times are available
+END:VEVENT
+BEGIN:VEVENT
+UID:ScottishOpen-R4@dpworld.com
+DTSTAMP:20250518T174256Z
+DTSTART;TZID=Europe/Berlin:20250720T080000
+DTEND;TZID=Europe/Berlin:20250720T180000
+SUMMARY:Scottish Open – Round 4 ⛳
+LOCATION:Renaissance Club
+DESCRIPTION:Placeholder time until real tee times are available
+END:VEVENT
+BEGIN:VEVENT
+UID:BMWPGAChampionship-R1@dpworld.com
+DTSTAMP:20250518T174256Z
+DTSTART;TZID=Europe/Berlin:20250911T080000
+DTEND;TZID=Europe/Berlin:20250911T180000
+SUMMARY:BMW PGA Championship – Round 1 ⛳
+LOCATION:Wentworth
+DESCRIPTION:Placeholder time until real tee times are available
+END:VEVENT
+BEGIN:VEVENT
+UID:BMWPGAChampionship-R2@dpworld.com
+DTSTAMP:20250518T174256Z
+DTSTART;TZID=Europe/Berlin:20250912T080000
+DTEND;TZID=Europe/Berlin:20250912T180000
+SUMMARY:BMW PGA Championship – Round 2 ⛳
+LOCATION:Wentworth
+DESCRIPTION:Placeholder time until real tee times are available
+END:VEVENT
+BEGIN:VEVENT
+UID:BMWPGAChampionship-R3@dpworld.com
+DTSTAMP:20250518T174256Z
+DTSTART;TZID=Europe/Berlin:20250913T080000
+DTEND;TZID=Europe/Berlin:20250913T180000
+SUMMARY:BMW PGA Championship – Round 3 ⛳
+LOCATION:Wentworth
+DESCRIPTION:Placeholder time until real tee times are available
+END:VEVENT
+BEGIN:VEVENT
+UID:BMWPGAChampionship-R4@dpworld.com
+DTSTAMP:20250518T174256Z
+DTSTART;TZID=Europe/Berlin:20250914T080000
+DTEND;TZID=Europe/Berlin:20250914T180000
+SUMMARY:BMW PGA Championship – Round 4 ⛳
+LOCATION:Wentworth
+DESCRIPTION:Placeholder time until real tee times are available
+END:VEVENT
+BEGIN:VEVENT
+UID:DPWorldTourChampionship-R1@dpworld.com
+DTSTAMP:20250518T174256Z
+DTSTART;TZID=Europe/Berlin:20251120T080000
+DTEND;TZID=Europe/Berlin:20251120T180000
+SUMMARY:DP World Tour Championship – Round 1 ⛳
+LOCATION:Jumeirah Estates
+DESCRIPTION:Placeholder time until real tee times are available
+END:VEVENT
+BEGIN:VEVENT
+UID:DPWorldTourChampionship-R2@dpworld.com
+DTSTAMP:20250518T174256Z
+DTSTART;TZID=Europe/Berlin:20251121T080000
+DTEND;TZID=Europe/Berlin:20251121T180000
+SUMMARY:DP World Tour Championship – Round 2 ⛳
+LOCATION:Jumeirah Estates
+DESCRIPTION:Placeholder time until real tee times are available
+END:VEVENT
+BEGIN:VEVENT
+UID:DPWorldTourChampionship-R3@dpworld.com
+DTSTAMP:20250518T174256Z
+DTSTART;TZID=Europe/Berlin:20251122T080000
+DTEND;TZID=Europe/Berlin:20251122T180000
+SUMMARY:DP World Tour Championship – Round 3 ⛳
+LOCATION:Jumeirah Estates
+DESCRIPTION:Placeholder time until real tee times are available
+END:VEVENT
+BEGIN:VEVENT
+UID:DPWorldTourChampionship-R4@dpworld.com
+DTSTAMP:20250518T174256Z
+DTSTART;TZID=Europe/Berlin:20251123T080000
+DTEND;TZID=Europe/Berlin:20251123T180000
+SUMMARY:DP World Tour Championship – Round 4 ⛳
+LOCATION:Jumeirah Estates
+DESCRIPTION:Placeholder time until real tee times are available
+END:VEVENT
+END:VCALENDAR
