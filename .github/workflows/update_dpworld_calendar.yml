@@ -1,1 +1,33 @@
+name: Update DP World Tour Calendar
 
+on:
+  schedule:
+    - cron: '0 5 * * *'  # Run daily at 05:00 UTC
+  workflow_dispatch:
+
+jobs:
+  update-calendar:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: |
+          pip install requests pytz
+
+      - name: Run update script
+        run: python update_dpworld_calendar.py
+
+      - name: Commit and push updated calendar
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add dp_world_tour_2025.ics
+          git commit -m "Auto-update DP World Tour 2025 calendar" || echo "No changes"
+          git push
